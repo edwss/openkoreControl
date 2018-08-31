@@ -1,3 +1,5 @@
+Foi somente testado em ambiente linux até então.
+
 Configure o arquivo dentro da pasta config.
 
 bot_name = "botname" sem as aspas. Para adicionar mais bots.
