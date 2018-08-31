@@ -1,0 +1,4 @@
+bot_name = example0
+bot_name = example1
+openkore_folder = /lootKore/
+real_folder = /home/eduardo/Documents/bots/
